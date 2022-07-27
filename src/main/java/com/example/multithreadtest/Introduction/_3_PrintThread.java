@@ -1,4 +1,4 @@
-package com.example.multithreadtest.introduction;
+package com.example.multithreadtest.Introduction;
 
 /**
  * 1.3 线程的启动

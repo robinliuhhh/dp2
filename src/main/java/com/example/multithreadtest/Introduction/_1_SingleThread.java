@@ -1,4 +1,4 @@
-package com.example.multithreadtest.introduction;
+package com.example.multithreadtest.Introduction;
 
 /**
  * 1.2 何谓线程

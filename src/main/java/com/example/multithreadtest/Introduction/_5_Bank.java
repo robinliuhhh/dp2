@@ -1,4 +1,4 @@
-package com.example.multithreadtest.introduction;
+package com.example.multithreadtest.Introduction;
 
 /**
  * 1.5 线程的互斥处理
