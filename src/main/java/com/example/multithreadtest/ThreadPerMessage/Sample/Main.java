@@ -5,8 +5,6 @@ package com.example.multithreadtest.ThreadPerMessage.Sample;
  * Main类委托Host类来显示字符
  * Host类会创建并启动一个线程来处理该委托
  * 启动的线程使用Helper类来执行实际的显示
- *
- *
  */
 public class Main {
     public static void main(String[] args) {
